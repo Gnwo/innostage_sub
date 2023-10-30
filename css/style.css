@@ -563,16 +563,9 @@ input[type=checkbox]#gnbcheck {display:none;}
     height: calc( 100% + 15px );
     top: -15px;
 }
-#container section:nth-child(7) .inner .box5 h3 {
-    font-size: 25px;
-}
-#container section:nth-child(7) .inner .box5 p {
-    font-size: 15px;
-    margin-top: 0;
-}
+
 #container section:nth-child(7) .inner .box5 h3{
-    position: absolute;
-    font-size: 20px;
+    font-size: 40px;
     color: black;
     margin-top: 12px;
 }
@@ -580,9 +573,9 @@ input[type=checkbox]#gnbcheck {display:none;}
     color: black;
     position: relative;
     float: top;
-    font-size: 40px;
+    font-size: 30px;
     margin-top: 50px;
-    margin-left: -30px;
+    margin-left: 0px;
 }
 
 #container section:nth-child(7) .inner .box5 {
